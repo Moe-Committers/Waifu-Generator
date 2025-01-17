@@ -16,8 +16,7 @@ This API generates a random waifu with just a simple request. Perfect for those 
 
 ```json
 {
-  "name": "Miku Nakano",
-  "anime": "The Quintessential Quintuplets",
-  "image_url": "https://example.com/waifu/miku_nakano.jpg",
-  "description": "Miku may be a little shy, but her love for her sisters (and maybe you?) is as strong as her dedication to studying!"
+  "Name":"Venti",
+  "Anime":"Genshin Impact",
+  "Opinion":"Best girl no doubt"
 }
